@@ -1,0 +1,9 @@
+.body{
+    background-color: aqua;
+    color: blue;
+    background: fixed;
+}
+.li{
+    align-items: center;
+    display: contents;
+}
